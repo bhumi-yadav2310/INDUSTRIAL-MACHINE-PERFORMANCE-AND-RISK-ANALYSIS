@@ -130,5 +130,3 @@ This project analyzes industrial machine data to provide insights on **productio
 
 - SQL Skills: Table creation, joins, aggregation, window functions, CTEs, CASE statements  
 - Industrial Data Analysis: Downtime analysis, production metrics, MTBF/MTTR, predictive maintenance  
-- Portfolio-Ready Project: End-to-end data pipeline with actionable industrial insights  
-
