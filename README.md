@@ -53,7 +53,7 @@ This project analyzes industrial machine data to provide insights on **productio
 
 ---
 
-## Machine-wise Insights (Plain Text)
+## Machine-wise Insights 
 
 - **LATHE_02** – Downtime: 1920 min, MTBF: 720 hrs, Production: 14674 units  
   **Status:** Medium Risk  
@@ -97,7 +97,7 @@ This project analyzes industrial machine data to provide insights on **productio
 
 ---
 
-## Downtime Reason Analysis (Plain Text)
+## Downtime Reason Analysis 
 
 - **No Material**  
   - Jan 2024: 18 occurrences, 2160 min  
